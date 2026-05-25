@@ -3,4 +3,4 @@ This project develops a modular UAV with AI-based obstacle avoidance using a com
 
 
 
-![Drone008](Samy-Warnants-Drone-Project-008\Pictures\Drone008.jpg)
+![Drone008](Pictures\Drone008.jpg)
